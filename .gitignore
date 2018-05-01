@@ -17,3 +17,4 @@ lib/dist/
 lib/nonlinearlab.egg-info/
 .idea/
 notebooks/.ipynb_checkpoints
+nonlinearlab.egg-info/
